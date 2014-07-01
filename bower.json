@@ -1,0 +1,32 @@
+{
+  "name": "famous-resizableImage",
+  "version": "0.0.1",
+  "homepage": "https://github.com/IjzerenHein/famous-resizableImage",
+  "authors": [
+    "Hein Rutjes <hrutjes@gmail.com>"
+  ],
+  "description": "Resizable image for famo.us",
+  "keywords": [
+    "famo.us",
+    "famous",
+    "image",
+    "resize",
+    "resizable",
+    "resizableImage"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests",
+    "examples",
+    "docs",
+    "Gruntfile.js"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.11",
+    "famous": "~0.2.0",
+    "famous-bkimagesurface": "IjzerenHein/famous-bkImageSurface#~0.0.2"
+  }
+}

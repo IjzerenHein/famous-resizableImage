@@ -1,0 +1,37 @@
+{
+  "name": "famous-resizableImage",
+  "version": "0.0.1",
+  "homepage": "https://github.com/IjzerenHein/famous-resizableImage",
+  "author": {
+    "name": "Hein Rutjes <hrutjes@gmail.com>"
+  },
+  "description": "Resizable image for famo.us",
+  "keywords": [
+    "famo.us",
+    "famous",
+    "image",
+    "resize",
+    "resizable",
+    "resizableImage"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/IjzerenHein/famous-resizableImage/blob/master/LICENSE"
+    }
+  ],
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/IjzerenHein/famous-resizableImage/issues"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-qunit": "latest",
+    "grunt-jsdox": "latest"
+  }
+}

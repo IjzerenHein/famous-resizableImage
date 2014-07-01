@@ -1,0 +1,32 @@
+html {
+  background: #fff;
+}
+
+html, div {
+    font-family: Helvetica;
+}
+
+.backfaceVisibility {
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
+}
+
+.left {
+    background-color: red;
+}
+
+.top {
+    background-color: blue;
+}
+
+.bottom {
+    background-color: green;
+}
+
+.right {
+    background-color: purple;
+}
+
+.middle {
+    background-color: yellow;
+}
